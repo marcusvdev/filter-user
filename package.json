@@ -1,0 +1,19 @@
+{
+  "name": "filter-user",
+  "version": "1.0.0",
+  "description": "Filter user with vanilla js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Vinicius",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sass-glob": "^1.1.0"
+  }
+}
